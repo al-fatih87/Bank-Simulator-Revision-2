@@ -4,6 +4,8 @@ Hey guys! Muhammad Oyonumoh here again...
 
 This is a revised version of the previous version. I modified the modules into one because of circular reference error. 
 
+NOTE: DO NOT run the main.py, Point the Run Configuration to function.py
+
 As in the previous one, this project is a Bank Simulator that simulates the banking system and operations, which includes account opening, account balance check, deposit and transfers/withdrawals. 
 The aim of this Project is basically to create and manage your own bank at home.
 
